@@ -13,6 +13,7 @@ dependencies:
   # TODO: Change pub.dev's version when vibration_web is published
   # vibration_web: ^1.6.6
   device_info_plus: ">=9.0.2 <11.0.0"
+  flutter_plugin_android_lifecycle: ^2.0.0
 
 dev_dependencies:
   flutter_test:
